@@ -1,4 +1,4 @@
-<img src="logo/LaTeX_logo.png" width="20%"> &nbsp; &nbsp; <img src="logo/uerj_logo_cor.png" width="10%">
+<img src="logo/uerj_logo_cor.png" width="10%"> &nbsp; &nbsp; <img src="logo/LaTeX_logo.png" width="20%"> 
 
 **LaTeX-UERJ** é um repositório que disponibiliza um pacote LaTeX (classe e template) para redigir teses, dissertações e monografias (em português e inglês) segundo as normas de apresentação da Universidade do Estado do Rio de Janeiro (UERJ).
 
