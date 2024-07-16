@@ -10,9 +10,8 @@ Esse pacote LaTeX e os templates nele inclusos foram depurados e adaptados pelo 
 
 ## Autores
 Esse pacote foi desenvolvido por diferentes gerações de alunos e docentes da UERJ. A versão aqui disponibilizada teve contribuições dos seguintes autores:
-- Americo Cunha
+- Daniel Chalhub
 - Luís Fernando de Oliveira
-- 
 
 ## Licença
 
