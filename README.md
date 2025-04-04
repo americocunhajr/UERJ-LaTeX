@@ -1,4 +1,4 @@
-<img src="logo/uerj_logo_cor.png" width="10%"> &nbsp; &nbsp; <img src="logo/LaTeX_logo.png" width="20%"> 
+<img src="logo/logo_uerj.png" width="13%"> &nbsp; &nbsp; <img src="logo/LaTeX_logo.png" width="20%"> 
 
 **UERJ-LaTeX** é um repositório que disponibiliza um pacote LaTeX (classe e template) para redigir teses, dissertações e monografias (em português e inglês) segundo as normas de apresentação da Universidade do Estado do Rio de Janeiro (UERJ).
 
@@ -17,4 +17,4 @@ Esse pacote foi desenvolvido por diferentes gerações de alunos e docentes da U
 
 **UERJ-LaTeX** é distribuído segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.
 
-<img src="logos/GPLv3_Logo.png" width="10%">
+<img src="logo/GPLv3_Logo.png" width="15%">
